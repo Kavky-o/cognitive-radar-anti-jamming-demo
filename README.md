@@ -12,7 +12,7 @@ The video illustrates a feedback-driven anti-jamming process under changing jamm
 
 ## Video
 
-[Watch or download the semi-physical demonstration video](https://github.com/Kavky-o/cognitive-radar-anti-jamming-demo/releases/tag/v1.0-demo)
+[Access the semi-physical demonstration video](https://github.com/Kavky-o/cognitive-radar-anti-jamming-demo/releases/tag/v1.0-demo)
 
 ## Associated Publication
 
